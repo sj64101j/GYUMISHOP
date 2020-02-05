@@ -12,7 +12,6 @@ body {
 	width: 100%;
 	height: 109px;
 	border-bottom: 10px solid #eb564e;
-	min-width: 1120px;
 }
 
 #header.sub {
@@ -20,14 +19,12 @@ body {
 	height: 109px;
 	border-bottom: none;
 	margin-bottom: 10px;
-	min-width: 1120px;
 }
 
 #header.buy {
 	width: 100%;
 	height: 109px;
 	border-bottom: none;
-	min-width: 1120px;
 }
 
 #header>.rnbWrap {
@@ -68,7 +65,6 @@ body {
 	height: 25px;
 	float: left;
 	margin-left: 350px;
-	min-width: 1120px;
 }
 
 .rnb>ul>li {
@@ -164,14 +160,12 @@ body {
 	width: 1120px;
 	height: 49px;
 	margin: 0 auto;
-	min-width: 1120px;
 }
 
 #header>nav.gnb.sub {
 	background-color: #eb564e;
 	width: 1960px;
 	margin: 0 auto;
-	min-width: 1120px;
 }
 
 nav.gnb>ul {
@@ -205,7 +199,6 @@ nav.gnb.sub>ul>li>a {
 	height: 502px;
 	margin-bottom: 60px;
 	position: relative;
-	min-width: 1120px;
 }
 
 div.sliderWrap li.sliderLi  {
@@ -275,7 +268,6 @@ div.visual {
 	width: 1120px;
 	height: 1425px;
 	margin: 0 auto;
-	min-width: 1120px;
 }
 
 div.visual .best_items {
@@ -395,7 +387,6 @@ div.eventWrap {
 	height: 300px;
 	background-color: #fab49b;
 	margin-bottom: 52px;
-	min-width: 1120px;
 }
 
 div.eventWrap>.event {
@@ -488,7 +479,6 @@ div.eventWrap .txtWrap p {
 	width: 1120px;
 	margin: 0 auto;
 	position: relative;
-	min-width: 1120px;
 }
 
 .reviewWrap>.review {
@@ -572,7 +562,6 @@ footer {
 	width: 1120px;
 	margin: 0 auto;
 	padding-top: 30px;
-	min-width: 1120px;
 }
 
 footer>ul {
@@ -634,7 +623,6 @@ footer>span {
 	width: 1120px;
 	margin: 0 auto;
 	margin-bottom: 85px;
-	min-width: 1120px;
 }
 
 .product>p {
@@ -761,7 +749,6 @@ footer>span {
 .info {
 	width: 1120px;
 	margin: 0 auto;
-	min-width: 1120px;
 }
 
 .info>ul {
@@ -827,7 +814,6 @@ footer>span {
 	width: 1120px;
 	margin: 0 auto;
 	padding-top: 30px;
-	min-width: 1120px;
 }
 
 .charge>h2 {
