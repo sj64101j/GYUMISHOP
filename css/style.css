@@ -199,6 +199,7 @@ nav.gnb.sub>ul>li>a {
 	height: 502px;
 	margin-bottom: 60px;
 	position: relative;
+	min-width: 1120px;
 }
 
 div.sliderWrap li.sliderLi  {
